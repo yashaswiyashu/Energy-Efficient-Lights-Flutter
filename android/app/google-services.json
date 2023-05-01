@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "743518022104",
+    "project_id": "energy-efficient-65663",
+    "storage_bucket": "energy-efficient-65663.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:743518022104:android:b5005f65f4214c28812aad",
+        "android_client_info": {
+          "package_name": "com.example.flutter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "743518022104-02qc0m3urhcm9o0h231rbiojou3nm6t9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAn6p_p6ctI7HD6KzEBEM3HmTZm2UdkqBc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "743518022104-02qc0m3urhcm9o0h231rbiojou3nm6t9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
